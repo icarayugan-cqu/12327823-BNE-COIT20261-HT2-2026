@@ -10,5 +10,5 @@ Week04 Tutorial
 ![Week 4 Screenshot 1](images/FRR-2.png)
 ![Week 4 Screenshot 1](images/iprouteshow.png)
 ![Week 4 Screenshot 1](images/showospf.png)
-![Week 4 Screenshot 1](images/tracerroute.png)
+![Week 4 Screenshot 1](images/traceroute.png)
 
