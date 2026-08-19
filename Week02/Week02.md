@@ -26,4 +26,22 @@ Uses nano/etc/network/interface in the 3rd host to be able to configure the stat
 On host 4 I did a IP address add command to be able to add a IP address to the host
 
 
+![Week 2 Screenshot 1](images/week2-4.png)
+
 All IP address are shown in the screenshot
+
+![Week 2 Screenshot 1](images/week2-5.png)
+![Week 2 Screenshot 1](images/week2-6.png)
+![Week 2 Screenshot 1](images/week2-7.png)
+![Week 2 Screenshot 1](images/week2-8.png)
+
+Pinging host 2 
+
+![Week 2 Screenshot 1](images/week2-12ping.png)
+
+
+Pinging random IP which is not included in the configuration of the hosts
+
+![Week 2 Screenshot 1](images/week2-10ping.png)
+
+
