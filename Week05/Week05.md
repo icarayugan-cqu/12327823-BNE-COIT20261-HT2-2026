@@ -22,3 +22,12 @@ Network test with ping
 ![Week 2 Screenshot 1](images/View-Routes-12327823.png)
 
 ![Week 2 Screenshot 1](images/View-Routes-12327823-2.png)
+
+
+Dynamic Routing with OSPF
+
+Import the project and Start all the nodes
+
+Use the three FRR show ip commands 
+
+Traceroute 
