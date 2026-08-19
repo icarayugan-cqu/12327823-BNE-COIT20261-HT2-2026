@@ -1,6 +1,8 @@
 Week 02 Tutorial
 
 Created a project named Setting-IP-12327823
+![Week 2 Screenshot 1](images/week2-1.png)
+
 
 Added four 4 nodes of type Linux Host and one Ethernet switch, and connect together into a LAN
 
