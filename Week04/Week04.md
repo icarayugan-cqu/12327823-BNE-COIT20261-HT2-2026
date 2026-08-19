@@ -1,6 +1,5 @@
 # Week 04 Tutorial
 
-> **Note:** This week's original notes contained only screenshots with no accompanying description. Add a short explanation under each image below to document what each step demonstrates. Images have been grouped into three parts based on their filenames — adjust the grouping/titles as needed.
 
 ## Part 1
 ![Week 4 Screenshot 1](images/week4-1.png)
