@@ -10,6 +10,9 @@ Added four 4 nodes of type Linux Host and one Ethernet switch, and connect toget
 
 Select an IPv4 network address uses 10.10.1.11 
 
+![Week 2 Screenshot 1](images/week2-2.png)
+
+
 Did not apply the configure option to the two host which is host 3 and 4
 Start all nodes.
 
