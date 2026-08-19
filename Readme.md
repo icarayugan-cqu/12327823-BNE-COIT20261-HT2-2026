@@ -1,5 +1,6 @@
-COIT20261-Porfolio.
-Student name: Ian Carayugan
+COIT20261-Porfolio WEEK01 TO WEEK05
+
+Student name: Ian M. Carayugan
 Student number:12327823
 Campus: BNE
 Teacher: Hong Shen
