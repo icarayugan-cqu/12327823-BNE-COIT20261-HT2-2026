@@ -1,6 +1,6 @@
 # Week 03 Tutorial
 
- Network setup
+ Network setup<br>
  The screenshot shows four Linux hosts connected through one Ethernet switch.
  Confirm each host has an IP address before starting Netcat.
  Week 03 Task 1 then requires one host to act as the Netcat server and another as the client
