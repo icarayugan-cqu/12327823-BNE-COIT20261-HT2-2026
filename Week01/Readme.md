@@ -2,6 +2,7 @@ Week 01 Tutorial
 Task 1: Introduction to GNS3 Basics
 
 Added a new Project
+![Week 1 Screenshot 1](images/week1-1.png)
 
 Added a Linux Host node and Added text showing student information
 
