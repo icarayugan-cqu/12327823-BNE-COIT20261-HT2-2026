@@ -7,10 +7,17 @@ Added a new Project
 Added a Linux Host node and Added text showing student information
 ![Week 1 Screenshot 1](images/week1-2.png)
 
-![Week 1 Screenshot 1](images/week1-2.1.png)
+
 Use IP Address 10.10.1.1 to the node also added text in near the host
-   
+![Week 1 Screenshot 1](images/week1-2.1.png)
+
+
 Node successfully Started
+![Week 1 Screenshot 1](images/week1-3.png)
+
+Testing using Web console commands
+![Week 1 Screenshot 1](images/week1-4.png)
+![Week 1 Screenshot 1](images/week1-5.png)
 
 
 Reflection
