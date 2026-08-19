@@ -4,8 +4,10 @@
 ## Part 1
 ![Week 4 Screenshot 1](images/week4-1.png) <br>
 This screenshot shows an additional connectivity test using ping. Successful replies confirm that communication between the configured hosts is working.
+
 ![Week 4 Screenshot 1.2](images/week4-1p2.png)  <br>
 This screenshot shows an additional connectivity test using ping. Successful replies confirm that communication between the configured hosts is working.
+
 ![Week 4 Screenshot 1.3](images/week4-1p3.png)  <br>
 This screenshot shows the host's network interface configuration using `ip addr`. The command is used to verify the available interfaces and assigned IP addresses.
 
