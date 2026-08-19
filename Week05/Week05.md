@@ -31,7 +31,7 @@ Verified end-to-end connectivity using ping.
 
 Imported the OSPF project and started all nodes.
 
-![OSPF project imported and started](images/OPSF.png)
+![OSPF project imported and started](images/OSPF.png)
 
 Used the three FRR `show ip` commands to inspect routing information.
 
