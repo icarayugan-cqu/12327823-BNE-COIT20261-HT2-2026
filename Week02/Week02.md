@@ -47,3 +47,7 @@ Confirmed that all IP addresses were correctly assigned across the four hosts.
 **Pinging a random IP not included in the host configuration** — expected failure:
 
 ![Ping to unconfigured IP fails](images/Ping-Basics-12327823-Error.png)
+
+## Reflection
+
+Week 02 provided me with practical experience in creating and configuring a basic network using GNS3. I created the Setting-IP-12327823 project and built a LAN consisting of four Linux hosts connected through an Ethernet switch. This helped me understand how multiple hosts can be connected within the same network.
