@@ -1,4 +1,5 @@
 Week 03 Tutorial
 
-Use the Setting-IP-<studentid> project which contains four Linux hosts and one Ethernet switch. Ensure all hosts have IP addresses. We will refer to the hosts as host A, host B, host C and host D.
-
+![Week 5 Screenshot 1](images/week3-ru.png)
+![Week 5 Screenshot 1](images/week3-same.png)
+![Week 5 Screenshot 1](images/week03-command.png)
