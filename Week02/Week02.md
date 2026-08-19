@@ -6,7 +6,7 @@ Created a project named Setting-IP-12327823
 
 Added four 4 nodes of type Linux Host and one Ethernet switch, and connect together into a LAN
 
-![Week 2 Screenshot 1](images/week2-2.png)
+![Week 2 Screenshot 1](images/Week2-Allss.png)
 
 Select an IPv4 network address uses 10.10.1.11 
 
