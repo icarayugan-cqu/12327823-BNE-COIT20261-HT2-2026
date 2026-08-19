@@ -37,11 +37,12 @@ All IP address are shown in the screenshot
 
 Pinging host 2 
 
-![Week 2 Screenshot 1](images/week2-12ping.png)
+![Week 2 Screenshot 1](images/Ping-Basics-12327823-simple.png)
 
 
 Pinging random IP which is not included in the configuration of the hosts
 
-![Week 2 Screenshot 1](images/week2-10ping.png)
+![Week 2 Screenshot 1](images/Ping-Basics-12327823-Error.png)
+
 
 
